@@ -3,6 +3,9 @@
 <h3 align = Center>VAYZIO</h3>
 
 > Vayzio ist ein Allgemeiner Bot der auf der Sprache Python basiert.
+> Der Bot wird ab dem `02.02.2024` öffentlich sein.
+> Vayzio Wird bis zu 100+ Befehle/Commands besitzen.
+
 
 <h3 align = Center>
 
