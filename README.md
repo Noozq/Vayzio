@@ -1,6 +1,7 @@
 <h1></h1>
 <h1 algin = Center><img src="logo-tra.png" img></h1>
 <h3 align = Center>VAYZIO</h3>
+> Vayzio ist ein Allgemeiner Bot der auf der Sprache Python basiert.
 <h3 align = Center>
 
   [Invite](https://discord.com/api/oauth2/authorize?client_id=971347959788765237&permissions=8&scope=bot)
