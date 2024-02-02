@@ -21,6 +21,8 @@
   <a href="#plugins">Plugins</a>
   •
   <a href="#support">Support</a>
+  •
+  <a href="#update">Update</a>
 <h1></h1>
 
 <h2 align="center">Commands</h2>
@@ -64,6 +66,6 @@
 
 > [Website](https://soon.de/)
 
-<h2 align="center">Changelog</h2>
+<h2 align="center">Update</h2>
 
 [+] `Changename`
