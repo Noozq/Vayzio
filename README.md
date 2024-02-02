@@ -25,19 +25,19 @@
   <a href="#update">Update</a>
 <h1></h1>
 
-<h2 align="center">Commands</h2>
+<h2 align="center">🧿 Commands 🧿</h2>
 
 > `v!help`
 > 
 > `v!invite`
 
-<h2 align="center">Settings</h2>
+<h2 align="center">🛠️ Settings 🛠️</h2>
 
 > Prefix : `v!`
 > 
 > Version : `0.0.1-Beta`
 
-<h2 align="center">Features</h2>
+<h2 align="center">🚀 Features 🚀</h2>
 
 > `Automod`,
 > `Moderation`,
@@ -50,22 +50,22 @@
 > `Banwords`,
 > `Invitedeleter`
 
-<h2 align="center">Plugins</h2>
+<h2 align="center">➕ Plugins ➕</h2>
 
 > [Github]()
 
-<h2 algin="center">Developer</h2>
+<h2 algin="center">⚙️ Developer ⚙️</h2>
 
 > Main-Developer: Noozq `aka` basti.kha
 
 > Sup-Developer: `-`
 
-<h2 align="center">Support</h2>
+<h2 align="center">🚔 Support 🚔</h2>
 
 > [Discord](https://discord.gg/WjYrRvZM9Q) 
 
 > [Website](https://soon.de/)
 
-<h2 align="center">Update</h2>
+<h2 align="center">🔮 Update 🔮</h2>
 
 [+] `Changename`
