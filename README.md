@@ -53,7 +53,11 @@
 > [Github]()
 
 <h2 algin="center">Developer</h2>
-<a href=""></a>
+
+> Main-Developer: Noozq `aka` basti.kha
+
+> Sup-Developer: `-`
+
 <h2 align="center">Support</h2>
 
 > [Discord](https://discord.gg/WjYrRvZM9Q) 
