@@ -56,6 +56,8 @@
 
 <h2 algin="center">⚙️ Developer ⚙️</h2>
 
+<a href='https://github.com/Noozq/Vayzio-/graphs/contributors'></a>
+
 > Main-Developer: Noozq `aka` basti.kha
 
 > Sup-Developer: `-`
