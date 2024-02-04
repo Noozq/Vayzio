@@ -56,15 +56,15 @@
 
 <h2 algin="center">⚙️ Developer ⚙️</h2>
 
-Contributions are always welcomed :D Make sure to follow [Contributing.md](/CONTRIBUTING.md)
-
-<a href="https://github.com/Noozq/Vayzio-/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=Noozq/Vayzio-" />
-</a>
+ > Für Mitwirkende [Contributing.md](/CONTRIBUTING.md)
 
 > Main-Developer: Noozq `aka` basti.kha
 
 > Sup-Developer: `-`
+
+<a href="https://github.com/Noozq/Vayzio-/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=Noozq/Vayzio-" />
+</a>
 
 <h2 align="center">🚔 Support 🚔</h2>
 
