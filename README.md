@@ -56,7 +56,11 @@
 
 <h2 algin="center">⚙️ Developer ⚙️</h2>
 
-<a href='https://github.com/Noozq/Vayzio-/graphs/contributors'></a>
+Contributions are always welcomed :D Make sure to follow [Contributing.md](/CONTRIBUTING.md)
+
+<a href="https://github.com/Noozq/Vayzio-/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=Noozq/Vayzio-" />
+</a>
 
 > Main-Developer: Noozq `aka` basti.kha
 
