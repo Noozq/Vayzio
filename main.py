@@ -69,6 +69,4 @@ async def on_guild_remove(guild):
       data["Guildid"].pop(str(guild.id))
       data["Guildname"].pop(str(guild.name))
 
-/
-
 client.run(token)
