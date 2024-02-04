@@ -43,16 +43,6 @@ async def on_guild_join(guild):
   with open('config/prefixes.json', 'w') as f:
     json.dump(prefixes, f, indent=4)
 
-  with open('config/data/guildinfos.json', 'r') as f:
-      data = json.load(f)
-
-      data["Guildid"] = str(guild.id)
-      data["Guildname"] = str(guild.name)
-
-  with open('config/data/guildinfos.json', 'w') as f:
-    json.dump(data, f, indent=4)
-
-
 @client.event
 async def on_guild_remove(guild):
   with open('config/prefixes.json', 'r') as f:
@@ -62,11 +52,5 @@ async def on_guild_remove(guild):
 
     with open('config/prefixes.json', 'w') as f:
       json.dump(prefixes, f, indent=4)
-
-  with open('config/data/guildinfos.json', 'r') as f:
-      data = json.load(f)
-
-      data["Guildid"].pop(str(guild.id))
-      data["Guildname"].pop(str(guild.name))
 
 client.run(token)
