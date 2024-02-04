@@ -60,11 +60,11 @@
 
 > Main-Developer: Noozq `aka` basti.kha
 
-> Sup-Developer: `-`
-
 <a href="https://github.com/Noozq/Vayzio-/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=Noozq/Vayzio-" />
 </a>
+
+> Sup-Developer: `-`
 
 <h2 align="center">🚔 Support 🚔</h2>
 
