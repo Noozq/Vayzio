@@ -13,7 +13,7 @@ version = str(os.getenv("VERSION"))
 
 
 def get_prefix(client, message):
-    with open("config/prefixes.json", "r") as f:
+    with open("Vayzio/config/prefixes.json", "r") as f:
         prefixes = json.load(f)
 
     return prefixes[str(message.guild.id)]
@@ -35,22 +35,22 @@ async def on_ready():
 
 @client.event
 async def on_guild_join(guild):
-  with open('config/prefixes.json', 'r') as f:
+  with open('Vayzio/config/prefixes.json', 'r') as f:
     prefixes = json.load(f)
 
     prefixes[str(guild.id)] = 'v!'
 
-  with open('config/prefixes.json', 'w') as f:
+  with open('Vayzio/config/prefixes.json', 'w') as f:
     json.dump(prefixes, f, indent=4)
 
 @client.event
 async def on_guild_remove(guild):
-  with open('config/prefixes.json', 'r') as f:
+  with open('Vayzio/config/prefixes.json', 'r') as f:
     prefixes = json.load(f)
 
     prefixes.pop(str(guild.id))
 
-    with open('config/prefixes.json', 'w') as f:
+    with open('Vayzio/config/prefixes.json', 'w') as f:
       json.dump(prefixes, f, indent=4)
 
 client.run(token)
